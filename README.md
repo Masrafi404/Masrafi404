@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React, Nodejs, ExpressJs, MongoDB**
+- 💬 Ask me about **React, ExpressJs, Nodejs, MongoDB**
 
-- 📫 How to reach me **mashrafi.dev@gmail.com**
+- 📫 reach me **mashrafi.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
